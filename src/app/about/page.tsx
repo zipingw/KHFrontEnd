@@ -42,7 +42,7 @@ export default function AboutPage() {
 
                                 <h2 className="text-2xl font-bold mt-8 mb-4">Get Involved</h2>
                                 <p className="mb-4">
-                                    Whether you're a musician, volunteer, or just passionate about local radio, there are many ways to be part of RTR FM.
+                                    Whether you&apos;re a musician, volunteer, or just passionate about local radio, there are many ways to be part of RTR FM.
                                 </p>
 
                                 <div className="mt-8 bg-gray-50 p-6 rounded-lg">
